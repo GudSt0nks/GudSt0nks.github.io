@@ -1,0 +1,44 @@
+body {
+    background-color: #1f1f1f;
+    color: #dfdfdf;
+    font-size: 170%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#conteiner {
+    width: 75%;
+}
+
+header {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    align-items: center;
+}
+
+ul {
+    text-align: left;
+}
+
+#name {
+    width: 40%;
+}
+
+#name-text {
+    text-align: center;
+}
+
+.sector {
+    padding-bottom: 100px;
+}
+
+#contacts {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+}
